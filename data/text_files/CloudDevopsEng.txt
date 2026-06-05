@@ -1,0 +1,143 @@
+## ROLE: Cloud / DevOps Engineer
+
+## OVERVIEW
+Cloud / DevOps Engineers design, build, deploy, and maintain scalable cloud infrastructure and automated delivery pipelines. They bridge development and operations by ensuring applications are reliably deployed, highly available, secure, and cost-efficient. Their core goal is to enable fast, safe, and repeatable software delivery using cloud platforms like AWS, Azure, or GCP.
+
+## CORE RESPONSIBILITIES
+- Design and implement cloud infrastructure (AWS/Azure/GCP)
+- Build Infrastructure-as-Code (IaC) using Terraform or CloudFormation
+- Develop and maintain CI/CD pipelines for automated deployments
+- Deploy and manage applications in production environments
+- Ensure system scalability, high availability, and fault tolerance
+- Monitor infrastructure health, logs, and application performance
+- Implement security best practices across cloud environments
+- Manage backups, disaster recovery, and system reliability
+- Automate infrastructure provisioning and configuration
+- Collaborate with development, security, and operations teams
+- Optimize cloud costs through right-sizing and usage analysis
+
+## REQUIRED PROGRAMMING & SYSTEM SKILLS
+Cloud engineers must understand both software and systems deeply. Linux is mandatory because most cloud servers run Linux-based environments. Networking fundamentals are critical for understanding VPCs, routing, and security groups. Python or Bash is used for automation scripts. Git is essential for version control and CI/CD workflows.
+- Linux administration and shell scripting
+- Basic Python or Bash scripting for automation
+- Networking fundamentals (DNS, TCP/IP, HTTP/HTTPS)
+- Git and version control workflows
+- System design fundamentals for scalable architecture
+
+## CLOUD PLATFORMS
+AWS is the most widely used platform in industry, followed by Azure in enterprise environments and GCP in data/AI-heavy systems. Understanding at least one platform deeply is required; AWS is usually preferred for jobs.
+- AWS (EC2, S3, RDS, Lambda, VPC, IAM, EKS)
+- Microsoft Azure (VMs, App Services, Azure DevOps, AKS)
+- Google Cloud Platform (Compute Engine, GKE, Cloud Run)
+- Multi-cloud and hybrid cloud architecture concepts
+
+## INFRASTRUCTURE AS CODE (IaC)
+IaC is the foundation of modern cloud engineering. It allows infrastructure to be defined in code instead of manual configuration. Terraform is the industry standard for multi-cloud setups, while CloudFormation is AWS-native.
+- Terraform for cloud-agnostic infrastructure provisioning
+- AWS CloudFormation for AWS-native deployments
+- Infrastructure versioning and reproducibility
+- Modular infrastructure design
+
+## CI/CD AND DEVOPS PIPELINES
+CI/CD pipelines automate build, test, and deployment processes. This reduces manual errors and speeds up software delivery. Tools include GitHub Actions, Jenkins, AWS CodePipeline, and GitLab CI.
+- GitHub Actions / Jenkins for CI/CD automation
+- AWS CodePipeline, CodeBuild, CodeDeploy
+- Automated testing and deployment workflows
+- Blue-green and rolling deployments
+
+## CONTAINERIZATION AND ORCHESTRATION
+Containers package applications with all dependencies, ensuring consistency across environments. Kubernetes manages and scales these containers automatically.
+- Docker for application containerization
+- Amazon ECR for container image storage
+- Kubernetes (EKS) for orchestration and scaling
+- Helm for Kubernetes application packaging
+- Auto-scaling using HPA and cluster autoscaler
+
+## MONITORING AND OBSERVABILITY
+Monitoring ensures systems are healthy and performant. Observability helps detect and debug issues in production environments.
+- AWS CloudWatch for logs, metrics, and alarms
+- AWS CloudTrail for audit logging
+- Prometheus for metrics collection
+- Grafana for dashboards and visualization
+- ELK Stack (Elasticsearch, Logstash, Kibana) for log analysis
+- Alerting and incident response systems
+
+## NETWORKING AND SECURITY
+Security is a core responsibility in cloud environments. Engineers must design secure architectures and enforce access control.
+- VPC design (subnets, route tables, gateways)
+- Security Groups and Network ACLs
+- IAM roles, policies, and least privilege access
+- AWS WAF and AWS Shield for protection
+- Encryption at rest and in transit
+- Identity integration (Active Directory, SSO)
+
+## STORAGE AND DATABASES
+Cloud systems rely heavily on scalable storage and managed databases.
+- S3 for object storage and backups
+- EBS for block storage
+- RDS (MySQL, PostgreSQL, Aurora)
+- DynamoDB for NoSQL workloads
+- Backup and lifecycle management policies
+
+## AUTOMATION AND SERVER MANAGEMENT
+Automation reduces manual effort and improves reliability. Server management includes provisioning, patching, and scaling systems.
+- AWS Systems Manager (SSM) for automation and patching
+- Auto Scaling Groups for dynamic scaling
+- Configuration management tools (Ansible, if used)
+- Infrastructure automation scripts
+
+## MLOPS / PLATFORM INTEGRATION (OPTIONAL BUT VALUABLE)
+Modern cloud engineers often support ML and data workloads.
+- Hosting ML models on AWS SageMaker
+- Serving APIs using Lambda or ECS/EKS
+- Managing data pipelines for ML systems
+- Supporting RAG and LLM infrastructure
+
+## ENTRY LEVEL EXPECTATIONS
+At entry level, cloud engineers are expected to deploy applications, manage basic AWS services, and understand CI/CD pipelines. Hands-on practice with EC2, S3, and IAM is essential.
+- Basic AWS services (EC2, S3, IAM, VPC)
+- Linux system basics
+- Docker fundamentals
+- Simple CI/CD pipeline setup
+- Basic scripting (Python/Bash)
+- Understanding of networking fundamentals
+
+## INTERMEDIATE LEVEL EXPECTATIONS
+At intermediate level, engineers can design scalable architectures, manage Kubernetes clusters, and build production-grade CI/CD pipelines.
+- Terraform or CloudFormation for IaC
+- Kubernetes (EKS/AKS/GKE)
+- Advanced CI/CD pipelines
+- Monitoring and observability setup
+- Secure cloud architecture design
+- Multi-tier application deployment
+
+## ADVANCED LEVEL EXPECTATIONS
+Advanced engineers design enterprise-scale systems, optimize cost and performance, and lead infrastructure decisions.
+- High availability and fault-tolerant architectures
+- Multi-region deployments
+- Disaster recovery planning
+- Cost optimization strategies (FinOps)
+- Large-scale Kubernetes management
+- Security compliance and governance
+
+## COMMON PROJECTS FOR PORTFOLIO
+Projects that demonstrate real-world DevOps skills are highly valued.
+- CI/CD pipeline for full-stack application deployment
+- Kubernetes-based microservices deployment system
+- Serverless application using AWS Lambda
+- Scalable web app with auto-scaling infrastructure
+- Monitoring dashboard with Prometheus + Grafana
+- Infrastructure-as-Code project using Terraform
+- Cloud-based RAG or AI deployment system
+
+## LEARNING ROADMAP FOR CLOUD / DEVOPS
+Start with Linux and networking fundamentals. Learn AWS core services (EC2, S3, IAM, VPC). Move into Docker and CI/CD pipelines. Then learn Terraform and Kubernetes. Finally focus on monitoring, security, and system design. Build at least 3 real deployment projects.
+
+## RELATED ROLES
+- DevOps Engineer
+- Cloud Engineer
+- Site Reliability Engineer (SRE)
+- Platform Engineer
+- Infrastructure Engineer
+- Kubernetes Engineer
+- Cloud Architect
