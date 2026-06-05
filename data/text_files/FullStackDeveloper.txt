@@ -1,0 +1,183 @@
+# ROLE: Full Stack Developer
+
+## OVERVIEW
+
+Full Stack Developers design, develop, and maintain both frontend and backend components of web applications. They work across the entire software stack, including UI, APIs, databases, and deployment systems, ensuring applications are scalable, secure, and performant.
+
+## CORE RESPONSIBILITIES
+
+- Design, develop, and maintain full-stack web applications.
+- Build and integrate RESTful APIs and third-party services.
+- Develop responsive and interactive frontend interfaces.
+- Implement backend services and business logic.
+- Manage database design and data flow.
+- Optimize applications for performance, scalability, and security.
+- Collaborate with designers, backend developers, and product teams.
+- Write clean, reusable, and maintainable code.
+- Perform debugging, testing, and code reviews.
+- Participate in system design and architecture discussions.
+
+## REQUIRED PROGRAMMING SKILLS
+
+- JavaScript (ES6+)
+- TypeScript
+- Python or PHP (or similar backend language)
+- HTML5
+- CSS3
+- Software Engineering Fundamentals
+- Object-Oriented Programming
+- Version Control (Git)
+- Basic Data Structures
+
+## FRONTEND DEVELOPMENT
+
+- React.js
+- Vue.js
+- Angular
+- Tailwind CSS
+- Bootstrap
+- Material UI
+- Responsive Web Design
+- State Management (Redux / Context API)
+
+## BACKEND DEVELOPMENT
+
+- Node.js
+- Django
+- Flask
+- FastAPI
+- Laravel
+- CodeIgniter
+- CakePHP
+- RESTful API Design
+- Authentication (JWT, OAuth)
+
+## DATABASE SKILLS
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Database Design
+- Query Optimization
+- Indexing
+- Normalization
+
+## DEVOPS AND DEPLOYMENT
+
+- Docker
+- CI/CD Pipelines (Jenkins, GitHub Actions)
+- Cloud Platforms (AWS, GCP, Azure)
+- Basic Kubernetes
+- Containerization
+- Deployment Automation
+
+## SYSTEM DESIGN & ENGINEERING FUNDAMENTALS
+
+- System Design Basics
+- Scalability Concepts
+- Software Design Patterns
+- Caching Strategies
+- Security Best Practices
+- Performance Optimization
+- Load Handling Basics
+
+## API & INTEGRATION SKILLS
+
+- REST API Development
+- API Consumption
+- AJAX / Fetch API
+- Third-party API Integration
+- Webhooks
+- Data Serialization (JSON)
+
+## SOFTWARE QUALITY PRACTICES
+
+- Unit Testing
+- Integration Testing
+- Code Reviews
+- Continuous Integration
+- Debugging Practices
+- Documentation Standards
+
+## ADVANCED CAPABILITIES
+
+- Microservices Basics
+- Asynchronous Programming
+- Real-time Applications (WebSockets basics)
+- Backend Optimization
+- Legacy System Migration
+- Caching (Redis basics)
+
+## CLOUD & INFRASTRUCTURE
+
+- AWS Basics
+- GCP Basics
+- Azure Basics
+- Deployment Pipelines
+- Environment Configuration
+
+## TOOLS & COLLABORATION
+
+- Git
+- GitHub
+- GitLab
+- Jira
+- Confluence
+- Agile / Scrum
+
+## SOFT SKILLS
+
+- Problem-solving mindset
+- Strong communication skills
+- Team collaboration
+- Ownership of features
+- Attention to detail
+- Independent execution ability
+
+## ENTRY LEVEL EXPECTATIONS
+
+- HTML, CSS, JavaScript basics
+- One frontend framework
+- One backend framework
+- Basic REST API understanding
+- Basic SQL
+- Git
+
+## INTERMEDIATE LEVEL EXPECTATIONS
+
+- Full-stack project experience
+- API integration
+- Authentication systems
+- Deployment experience
+- Database optimization
+- Docker basics
+
+## ADVANCED LEVEL EXPECTATIONS
+
+- Scalable system design
+- CI/CD pipelines
+- Cloud deployment
+- Microservices architecture
+- Performance tuning
+- Security hardening
+
+## COMMON PROJECTS
+
+- E-commerce platforms
+- Social media applications
+- CRM systems
+- SaaS dashboards
+- Job portals
+- Blogging platforms
+- API-based web apps
+- Admin dashboards
+
+## RELATED ROLES
+
+- Frontend Developer
+- Backend Developer
+- Software Engineer
+- DevOps Engineer
+- Full Stack Engineer
+- Web Developer
+- Application Developer
