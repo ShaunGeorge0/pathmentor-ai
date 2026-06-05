@@ -1,0 +1,151 @@
+ROLE: Machine Learning Engineer
+
+OVERVIEW
+
+Machine Learning Engineers design, build, train, deploy, and maintain machine learning systems in production environments. They bridge the gap between research and software engineering by transforming machine learning models into scalable applications that solve real-world business problems.
+
+CORE RESPONSIBILITIES
+
+* Develop machine learning models for production use.
+* Build and maintain model training pipelines.
+* Design evaluation and benchmarking workflows.
+* Deploy machine learning systems to cloud environments.
+* Monitor model performance and reliability.
+* Create scalable inference services.
+* Develop feature engineering and data processing pipelines.
+* Collaborate with data scientists, software engineers, and product teams.
+* Maintain production-grade codebases and infrastructure.
+* Improve AI system performance, scalability, and reliability.
+
+REQUIRED PROGRAMMING SKILLS
+
+* Python
+* R (optional)
+* Software Engineering Fundamentals
+* Data Structures and Algorithms
+* Object-Oriented Programming
+* Testing and Debugging
+* Version Control (Git)
+
+MACHINE LEARNING SKILLS
+
+* Supervised Learning
+* Unsupervised Learning
+* Deep Learning
+* Statistical Modeling
+* Model Evaluation
+* Hyperparameter Tuning
+* Feature Engineering
+* Data Preprocessing
+* Model Deployment
+
+FRAMEWORKS AND LIBRARIES
+
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* XGBoost
+* LightGBM
+* Hugging Face Transformers
+* Pandas
+* NumPy
+
+MLOPS AND DEPLOYMENT
+
+* MLflow
+* Kubeflow
+* Airflow
+* CI/CD Pipelines
+* Model Monitoring
+* Experiment Tracking
+
+CLOUD AND INFRASTRUCTURE
+
+* AWS
+* Azure
+* Google Cloud Platform (GCP)
+* SageMaker
+* Bedrock
+* Lambda
+* ECS
+* EKS
+
+CONTAINERIZATION AND ORCHESTRATION
+
+* Docker
+* Kubernetes
+
+DATA ENGINEERING SKILLS
+
+* Data Pipelines
+* Data Cleaning
+* Feature Stores
+* Data Validation
+* ETL Workflows
+
+ADVANCED SPECIALIZATIONS
+
+* Natural Language Processing (NLP)
+* Large Language Models (LLMs)
+* Computer Vision
+* Time Series Forecasting
+* Recommendation Systems
+
+BIG DATA TOOLS
+
+* Apache Spark
+* Hadoop
+
+REAL-TIME SYSTEMS
+
+* Real-Time Inference
+* Low-Latency Prediction Services
+* Streaming Data Processing
+
+ENTRY LEVEL EXPECTATIONS
+
+* Python
+* NumPy
+* Pandas
+* Machine Learning Fundamentals
+* Scikit-learn
+* Git
+* Basic SQL
+
+INTERMEDIATE LEVEL EXPECTATIONS
+
+* TensorFlow or PyTorch
+* Cloud Deployment
+* Docker
+* Model Serving
+* Feature Engineering
+
+ADVANCED LEVEL EXPECTATIONS
+
+* MLOps
+* Kubernetes
+* Distributed Training
+* LLM Systems
+* Production AI Infrastructure
+
+COMMON PROJECTS
+
+* Customer Churn Prediction
+* Recommendation Systems
+* Fraud Detection
+* Sentiment Analysis
+* Image Classification
+* Object Detection
+* Time Series Forecasting
+* Conversational AI Systems
+* Retrieval-Augmented Generation (RAG) Applications
+
+RELATED ROLES
+
+* AI Engineer
+* Data Scientist
+* MLOps Engineer
+* Applied Scientist
+* Deep Learning Engineer
+* NLP Engineer
+* Computer Vision Engineer
